@@ -1,0 +1,4 @@
+com\jb\custom\MyCustomWeatherAutoConfiguration.class
+com\jb\custom\WeatherService.class
+com\jb\custom\WeatherProperties.class
+com\jb\CustomApplication.class
